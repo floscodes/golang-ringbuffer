@@ -1,5 +1,3 @@
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
 # An easy to use RingBuffer in Go
 
 First of all run:
@@ -23,4 +21,4 @@ func main() {
 
 }
 ```
-**read the docs for more ->** 
+**read the docs for more ->** [![Go Reference](https://pkg.go.dev/badge/github.com/floscodes/golang-ringbuffer.svg)](https://pkg.go.dev/github.com/floscodes/golang-ringbuffer)
